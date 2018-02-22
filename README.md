@@ -1,6 +1,6 @@
 # Design Patterns by Examples in PHP
 
-A collection of GoF design patterns sample code written in PHP. These are are using as a part of the **PHP Framework Course** provided by [Fairway Technology](https://fairway.com.mm).
+All 23 GoF design patterns sample code implemented in PHP. These code are a part of the **PHP Framework Course** provided by [Fairway Technology](https://fairway.com.mm).
 
 ## How to learn?
 
