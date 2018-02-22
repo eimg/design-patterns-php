@@ -9,7 +9,7 @@ Read the code.
 **Creational Patterns**
 1. [Factory Method](1-factory.php)
 2. [Abstract Factory](2-abstract-factory.php)
-3. [Builder](2-builder.php)
+3. [Builder](3-builder.php)
 4. [Singleton](4-singleton.php)
 5. [Prototype](5-prototype.php)
 

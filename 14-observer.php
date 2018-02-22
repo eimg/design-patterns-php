@@ -1,7 +1,7 @@
 <?php
 
 // === Subject ===
-// Have a observer list. Where there is a change,
+// Have a observer list. When there is a change,
 // iterate through observer list and invoke update()
 // on each observer.
 class Car
