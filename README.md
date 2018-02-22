@@ -1,6 +1,6 @@
 # Design Patterns by Examples in PHP
 
-All 23 GoF design patterns sample code implemented in PHP. These code are a part of the **PHP Framework Course** provided by [Fairway Technology](https://fairway.com.mm).
+All 23 GoF design patterns sample code implemented in PHP. These code are a part of **PHP Framework Course** provided by [Fairway Technology](https://fairway.com.mm).
 
 ## How to learn?
 
@@ -38,3 +38,9 @@ Read the code.
 ### Note
 
 These code are oversimplified by design and may not follow all best practices. Use this only as education purpose in attempt to understand the patterns, not as direct example to use in real projects.
+
+## License and Contact
+
+* **License** - [MIT License](LICENSE.md)
+* **Website** - [eimaung.com](https://eimaung.com)
+* **Email** - [eimg@fairwayweb.com](mailto:eimg@fairwayweb.com)
