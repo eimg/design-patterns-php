@@ -35,7 +35,7 @@ Read the code.
 10. [Visitor](22-visitor.php)
 11. [Template](23-template.php)
 
-### Other
+### Other (non-GoF)
 1. [Dependency Injection](other/dependency-injection.php)
 2. [Null Object](other/null.php)
 3. [Servant](other/servant.php)
